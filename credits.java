@@ -5,7 +5,7 @@ import javafx.scene.layout.Pane;
 
 
 /**
- * @author Owner
+ * @author theKyleLatino
  * @version 1.0
  * @created 27-February-2015 10:17:35 PM
  */
