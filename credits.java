@@ -13,11 +13,11 @@ public class credits {
 
 	public Pane creditsPane;
 	public Button main_menu;
-	public Label name1;
-	public Label name2;
-	public Label name3;
-	public Label name4;
-	public Label name5;
+	public Label name1 = new Label("Julian Avila");
+	public Label name2 = new Label("Brandon Kent");
+	public Label name3 = new Label("Kyle Latino");
+	public Label name4 = new Label("David Panzera");
+	public Label name5 = new Label("Alex Santini");
 
 	public credits(){
 
